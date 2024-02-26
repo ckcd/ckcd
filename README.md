@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on [eBay](https://www.ebayinc.com/)
+- 📫 How to reach me: [changkun707@gmail.com](mailto:changkun707@gmail.com)
+
+[![ckcd's GitHub stats](https://github-readme-stats.vercel.app/api?username=ckcd)](https://github.com/anuraghazra/github-readme-stats)
