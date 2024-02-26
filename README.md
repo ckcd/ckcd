@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on [eBay](https://www.ebayinc.com/)
 - 📫 How to reach me: [changkun707@gmail.com](mailto:changkun707@gmail.com)
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ckcd&hide=stars&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![abcde](https://github-readme-stats.vercel.app/api?username=ckcd&hide=stars&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
