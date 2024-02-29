@@ -20,8 +20,6 @@ Here are some ideas to get you started:
 
 [![ckcd's GitHub stats](https://github-readme-stats.vercel.app/api?username=ckcd&hide=stars&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
----
-
 ## Tech Stack
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
